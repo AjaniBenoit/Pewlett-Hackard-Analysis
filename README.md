@@ -22,3 +22,10 @@ Using Postgres and Entity Relationship Diagram, a relation database was created 
 4.	1559 employees born in 1965 are eligible to participate in the Mentorship Program. 
 
 ![Mentor.png]( https://github.com/AjaniBenoit/Pewlett-Hackard-Analysis/blob/main/Mentor%20.png)
+
+## Summary
+
+1. Pewlett Hackard will potentially have to fill 90398 vaccacines when people start to retire.
+
+2. With 90398 people who will potentially retire, Pewlett Hackard has enough potential mentors to mentor the 1559 employees who qualify for the Mentorship Program. 
+
